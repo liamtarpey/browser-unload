@@ -1,0 +1,23 @@
+{
+  "name": "browser-unload",
+  "version": "1.0.0",
+  "description": "Helpers for the 'beforeunload' event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamtarpey/browser-unload.git"
+  },
+  "keywords": [
+    "npm",
+    "beforeunload"
+  ],
+  "author": "Liam Tarpey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamtarpey/browser-unload/issues"
+  },
+  "homepage": "https://github.com/liamtarpey/browser-unload#readme"
+}
